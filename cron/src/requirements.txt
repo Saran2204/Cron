@@ -1,0 +1,4 @@
+Flask
+flask-restx
+azure-batch
+azure-identity
